@@ -1,6 +1,5 @@
-var m1=162;
-var m2=173;
-var r=11;
-const g=6.67e-11;
-var fg=(g*m1*m2)/r*r;
-document.write(fg);
+var pi=3.14159265359;
+var radius=10;
+var circumference=2*pi*radius;
+document.write('The radius of the sphere is '+radius);
+document.write('The circumference is'+circumference)
