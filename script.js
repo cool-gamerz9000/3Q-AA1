@@ -1,5 +1,5 @@
 var pi=3.14159265359;
-var radius=10;
+var radius=6,378,000;
 var circumference=2*pi*radius;
 var diamenter=2*radius;
 var surfacearea=4*pi*radius**2;
